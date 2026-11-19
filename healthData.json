@@ -1,0 +1,2158 @@
+[
+  {
+    "id": "NUT001",
+    "category": "nutrition",
+    "topic": "비타민 C와 감기",
+    "claim": "비타민 C 영양제를 먹으면 감기에 걸리지 않는다.",
+    "verdict": "근거와 불일치",
+    "evidence": "대부분의 사람에게 비타민 C 보충제는 감기에 걸릴 위험을 낮추지 않는다. 규칙적인 복용은 감기 기간이나 증상을 약간 줄일 수 있지만, 감기 증상이 시작된 후 복용하는 효과는 뚜렷하지 않다.",
+    "reason": "감기 예방 효과를 확정적으로 표현한 것은 공식 자료와 일치하지 않는다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "감기 및 비타민 C 관련 건강정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5423"
+      }
+    ],
+    "keywords": [
+      "비타민 C",
+      "감기",
+      "감기 예방"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 감기 자료는 비타민 C가 감기 발생 자체를 확실히 막는다고 설명하지 않으며, 규칙적인 복용과 증상 발현 후 복용의 효과를 구분합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "예방과 증상 기간·중증도 완화는 서로 다른 결과이므로 문장에 제시된 ‘감기 예방’만 따로 판단해야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "감기 예방 효과와 감기 기간·중증도 변화는 구분해야 하며, 효과는 복용 시점·개인 특성에 따라 달라질 수 있습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT002",
+    "category": "nutrition",
+    "topic": "비타민 C 과다 섭취",
+    "claim": "비타민 C는 수용성이라 아무리 많이 먹어도 부작용이 없다.",
+    "verdict": "근거와 불일치",
+    "evidence": "비타민 C를 과량 섭취하면 설사, 메스꺼움, 복통 등이 나타날 수 있다.",
+    "reason": "수용성이라는 이유만으로 과다 섭취가 안전하다고 단정할 수 없다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제와 비타민 과다 섭취 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      }
+    ],
+    "keywords": [
+      "비타민 C",
+      "과다 섭취",
+      "부작용"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 영양제 자료는 영양소 과잉 섭취의 위험을 다루지만, 등록된 출처만으로 비타민 C 과량 섭취의 모든 부작용과 용량별 위험을 충분히 확인하기는 어렵습니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "수용성이라는 분류만으로 무제한 섭취의 안전성을 결론 내릴 수 없습니다. 용량과 개인 상태를 함께 봐야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "과량 섭취 위험은 섭취량·신장 기능·개인 상태에 따라 다르므로 구체적인 상한량은 별도 기준 확인이 필요합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT003",
+    "category": "nutrition",
+    "topic": "비타민 D와 뼈 건강",
+    "claim": "비타민 D는 칼슘 흡수와 뼈 건강에 필요하다.",
+    "verdict": "근거 충분",
+    "evidence": "비타민 D는 칼슘과 인의 흡수 및 이용을 돕고 뼈의 형성과 유지에 필요하다.",
+    "reason": "비타민 D의 영양소 기능에 대한 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보(비타민 D·칼슘)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제·비타민 D 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      }
+    ],
+    "keywords": [
+      "비타민 D",
+      "칼슘 흡수",
+      "뼈 건강"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식품안전나라의 영양소 기능성 표는 비타민 D가 칼슘·인의 흡수와 뼈의 형성·유지에 필요하다고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "정상적인 영양소 기능에 대한 주장으로 범위가 적절합니다. 특정 질환의 치료 효과로 확대해서는 안 됩니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "비타민 D의 정상 기능을 설명한 것이며 보충제가 모든 사람의 골다공증을 예방한다는 뜻은 아닙니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT004",
+    "category": "nutrition",
+    "topic": "칼슘과 뼈 건강",
+    "claim": "칼슘은 뼈와 치아를 형성하고 유지하는 데 필요하다.",
+    "verdict": "근거 충분",
+    "evidence": "칼슘은 뼈와 치아의 주요 구성 성분이며 근육과 신경 기능에도 필요하다.",
+    "reason": "칼슘의 대표적인 생리적 기능과 일치한다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보(칼슘)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제 및 미네랄 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      }
+    ],
+    "keywords": [
+      "칼슘",
+      "뼈",
+      "치아"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식품안전나라의 영양소 기능성 표는 칼슘이 뼈와 치아 형성, 신경·근육 기능 유지에 필요하다고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "영양소의 생리적 기능을 설명하는 문장으로 근거와 주장의 범위가 일치합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "칼슘 필요량은 연령·성별·건강 상태에 따라 다르며 보충제 복용 필요성은 식사 섭취량을 고려해야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT005",
+    "category": "nutrition",
+    "topic": "철분 영양제",
+    "claim": "피곤하면 누구나 철분 영양제를 먹는 것이 좋다.",
+    "verdict": "일부 일치",
+    "evidence": "철분은 필수 영양소지만 철분이 부족하지 않은 사람이 보충제를 복용할 필요는 없으며, 과량 섭취는 위장 장애 등 부작용을 일으킬 수 있다.",
+    "reason": "철분이 필요한 경우는 있지만 피로만으로 철분 부족을 단정하거나 모든 사람에게 복용을 권할 수 없다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "빈혈 및 영양 관련 건강정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1104"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      }
+    ],
+    "keywords": [
+      "철분",
+      "피로",
+      "철분제",
+      "빈혈"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 빈혈·영양 정보와 영양제 자료는 철분의 필요성과 보충제의 주의점을 뒷받침하지만, 피로의 원인을 철분 부족으로 단정할 수는 없습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "피로는 원인이 다양하므로 증상만으로 철분 보충을 권하는 것은 타당하지 않습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "피로는 빈혈 외에도 수면·감염·정신적 요인 등 원인이 다양합니다. 검사 없이 철분제를 복용하는 것은 적절하지 않을 수 있습니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT006",
+    "category": "nutrition",
+    "topic": "마그네슘의 기능",
+    "claim": "마그네슘은 근육과 신경 기능에 관여하는 영양소다.",
+    "verdict": "일부 일치",
+    "evidence": "마그네슘은 근육과 신경 기능, 혈당 및 혈압 조절, 단백질과 뼈 형성 등에 관여한다.",
+    "reason": "영양소의 정상적인 기능에 관한 설명은 맞지만, 마그네슘 보충제가 모든 근육 경련을 치료한다는 뜻은 아니다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제 및 미네랄 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "마그네슘",
+      "근육",
+      "신경 기능"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식품안전나라 영양소 기능성 표는 마그네슘이 에너지 이용 및 신경·근육 기능 유지에 필요하다고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "정상적인 신체 기능에 관한 설명으로 타당하지만, 보충제가 모든 경련을 치료한다는 결론은 아닙니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "마그네슘 결핍 여부와 근육 경련 원인은 개인마다 다르며 보충제 효과를 일반화할 수 없습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT007",
+    "category": "nutrition",
+    "topic": "아연과 과다 섭취",
+    "claim": "아연은 면역에 좋으므로 많이 먹을수록 좋다.",
+    "verdict": "근거와 불일치",
+    "evidence": "아연은 필수 영양소지만 과량 섭취하면 메스꺼움 등 부작용이 나타날 수 있고 일부 약물과 상호작용할 수 있다.",
+    "reason": "필수 영양소라는 사실이 무제한 섭취의 안전성을 의미하지 않는다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제와 미네랄 과다 섭취 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "아연",
+      "면역",
+      "과다 섭취"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식품안전나라 자료는 아연이 정상적인 면역기능에 필요하다고 설명하지만, 과량 섭취가 더 큰 면역 효과를 낸다는 뜻은 아닙니다. 과잉 섭취 위험은 별도 용량 자료와 함께 확인해야 합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "필수 영양소라는 사실과 더 많이 섭취할수록 유익하다는 주장은 구분해야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "과다 섭취 시 부작용과 약물 상호작용이 가능하며 연령·섭취량에 따른 상한 기준을 확인해야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT008",
+    "category": "nutrition",
+    "topic": "엽산과 임신 초기",
+    "claim": "엽산은 임신 전후 초기 태아의 신경관 결손 위험을 줄이는 데 도움이 된다.",
+    "verdict": "근거 충분",
+    "evidence": "임신 가능성이 있는 여성은 임신 전후 충분한 엽산을 섭취하는 것이 태아 신경관 결손 위험을 낮추는 데 도움이 된다.",
+    "reason": "엽산의 신경관 결손 예방 역할과 일치한다. 구체적인 권장량은 국가별 권고와 개인 상황을 확인해야 한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제·엽산 관련 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "빈혈 및 영양 관련 건강정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=1104"
+      }
+    ],
+    "keywords": [
+      "엽산",
+      "임신",
+      "신경관 결손"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 임산부 영양 자료는 임신 중 영양소 필요량과 균형 잡힌 식사의 중요성을 뒷받침하지만, 엽산의 구체적 예방 효과와 권장량은 별도 전문 지침 대조가 필요합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "임신 전후 엽산 섭취의 예방적 역할은 근거가 있지만 대상·시기·권장량을 구체적으로 제시해야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "임신 가능성·임신 시기·복용량에 따라 권고가 달라질 수 있으므로 의료진 및 최신 임신 영양 지침을 확인해야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT009",
+    "category": "nutrition",
+    "topic": "오메가3와 중성지방",
+    "claim": "EPA와 DHA는 혈중 중성지방 수치를 낮추는 데 도움을 줄 수 있다.",
+    "verdict": "근거 충분",
+    "evidence": "EPA와 DHA 섭취는 혈중 중성지방 수치를 낮출 수 있다. 보충제의 필요성과 용량은 건강 상태에 따라 달라진다.",
+    "reason": "특정 오메가3 지방산의 중성지방 감소 효과와 대체로 일치한다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      }
+    ],
+    "keywords": [
+      "오메가3",
+      "EPA",
+      "DHA",
+      "중성지방"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "등록된 자료는 오메가3의 건강기능성 일반 정보를 제시하지만, EPA·DHA의 중성지방 감소 효과와 용량을 직접 확인할 수 있는 개별 근거는 추가 대조가 필요합니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "‘도움을 줄 수 있다’는 표현은 단정적 치료 주장보다 적절하나, EPA·DHA 용량과 대상이 빠져 있어 보완이 필요합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "제품의 EPA·DHA 함량, 용량, 중성지방 수치, 복용 약물에 따라 효과와 주의점이 달라집니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT010",
+    "category": "nutrition",
+    "topic": "오메가3와 심혈관 질환",
+    "claim": "오메가3 영양제를 먹으면 누구나 심장병을 예방할 수 있다.",
+    "verdict": "근거와 불일치",
+    "evidence": "오메가3와 심혈관 건강의 관계는 섭취 형태와 대상자의 위험 요인 등에 따라 다르며, 일반적인 보충제 복용이 모든 사람의 심장병을 예방한다고 볼 수 없다.",
+    "reason": "특정 영양소의 효과를 모든 사람에게 동일하게 적용한 과장된 표현이다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      }
+    ],
+    "keywords": [
+      "오메가3",
+      "심장병",
+      "심혈관 질환"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "공식 건강기능식품 자료는 일반 기능성 표시가 질병의 직접 예방·치료를 뜻하지 않는다고 설명합니다. 모든 사람의 심장병 예방 효과는 뒷받침되지 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "일반 보충제 섭취를 모든 사람의 심혈관질환 예방으로 확대하는 것은 근거 범위를 벗어납니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "일반 식품·건강기능식품과 처방 오메가3 제제는 성분·용량·근거가 다르며 심혈관 위험도에 따라 효과가 달라질 수 있습니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT011",
+    "category": "nutrition",
+    "topic": "프로바이오틱스의 효과",
+    "claim": "프로바이오틱스 제품은 어떤 종류든 같은 건강 효과가 있다.",
+    "verdict": "근거와 불일치",
+    "evidence": "프로바이오틱스의 효과는 균주, 섭취량, 대상자 및 건강 상태 등에 따라 달라질 수 있으며 모든 제품의 효과가 동일하게 입증된 것은 아니다.",
+    "reason": "모든 프로바이오틱스 제품의 효과가 동일하다는 주장은 근거가 부족하다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 원료 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?ans_yn=N&bbs_no=bbs987&bbs_type_cd=01&menu_grp=MENU_NEW01&menu_no=2660&ntctxt_no=1110822&nticmatr_yn=N"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "프로바이오틱스",
+      "유산균",
+      "균주"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "식품안전나라의 기능성 원료별 정보는 특정 균주·원료별로 인정 기능성이 다르게 제시됨을 보여 주므로 모든 프로바이오틱스 제품의 효과가 같다는 주장은 지지되지 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "균주와 제품별 인정 기능성이 다를 수 있어 모든 제품을 동일하게 취급할 수 없습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-19입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-19"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "균주별·제품별 임상 근거와 인정 기능성이 다르며, 제품의 균주명·함량·보관 조건을 확인해야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT012",
+    "category": "nutrition",
+    "topic": "프로바이오틱스와 변비",
+    "claim": "프로바이오틱스를 먹으면 변비가 반드시 치료된다.",
+    "verdict": "일부 일치",
+    "evidence": "일부 프로바이오틱스 원료는 배변활동 원활에 도움을 줄 수 있는 기능성이 인정되어 있으나, 모든 제품이나 모든 변비를 치료한다는 의미는 아니다.",
+    "reason": "일부 원료의 기능성을 모든 균주와 질환 치료에 확대 적용했다.",
+    "sources": [
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보(프로바이오틱스)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 원료별 정보(프로바이오틱스)",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs987&menu_grp=MENU_NEW01&menu_no=2660&ntctxt_no=1097024"
+      }
+    ],
+    "keywords": [
+      "프로바이오틱스",
+      "변비",
+      "배변활동"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "식품안전나라 자료는 일부 원료에 배변활동 관련 기능성을 인정하지만, 모든 제품이 모든 변비를 치료한다는 주장을 뒷받침하지 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "일부 원료의 배변 기능성을 모든 변비의 치료 효과로 일반화하면 안 됩니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "변비의 원인은 다양하고 일부 원료의 기능성 표시가 질환 치료를 의미하지 않습니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT013",
+    "category": "nutrition",
+    "topic": "비타민 E와 심장병 예방",
+    "claim": "비타민 E 보충제는 심장병을 예방한다.",
+    "verdict": "근거와 불일치",
+    "evidence": "비타민 E 보충제가 일반적으로 심혈관 질환을 예방한다는 근거는 확립되어 있지 않다.",
+    "reason": "항산화 기능이 있다는 사실과 심장병 예방 효과는 별개다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제·비타민 E 관련 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "비타민 E",
+      "항산화",
+      "심장병"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "등록된 일반 영양제·기능성 자료는 비타민 E의 항산화 기능을 설명하지만, 비타민 E 보충제가 심장병을 예방한다는 임상적 결론을 직접 입증하지는 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "항산화 기능과 심혈관질환 예방은 서로 다른 결과이므로 둘을 동일시하면 안 됩니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "비타민 E 보충제의 심혈관 예방 효과는 일반화할 수 없고 고용량 복용에는 별도 안전성 검토가 필요합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT014",
+    "category": "nutrition",
+    "topic": "비타민 E 과다 섭취",
+    "claim": "비타민 E는 항산화 비타민이므로 고용량으로 먹어도 안전하다.",
+    "verdict": "근거와 불일치",
+    "evidence": "고용량 비타민 E 보충제는 출혈 위험을 높일 수 있고 항응고제 등과 상호작용할 수 있다.",
+    "reason": "항산화 기능만으로 고용량 복용의 안전성을 보장할 수 없다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "영양제 및 지용성 비타민 과다 섭취 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6762"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "비타민 E",
+      "고용량",
+      "출혈 위험"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 영양제 자료는 지용성 비타민의 과잉 섭취 위험을 설명하지만, 출혈 위험과 약물 상호작용의 정도는 개별 의약·임상 자료를 추가로 확인해야 합니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "항산화 기능은 고용량 섭취의 안전성을 보장하지 않습니다. 용량·약물 병용 여부를 따져야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-26입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-26"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "항응고제 등 약물 복용자와 출혈 위험이 있는 사람은 전문가 상담이 필요하며, 항산화 기능만으로 안전성을 판단할 수 없습니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "NUT015",
+    "category": "nutrition",
+    "topic": "단백질 보충제와 근육 증가",
+    "claim": "단백질 보충제를 많이 먹을수록 근육이 계속 더 많이 증가한다.",
+    "verdict": "일부 일치",
+    "evidence": "단백질은 근육 단백질 합성에 필요하지만, 필요한 양을 넘겨 섭취한다고 근육 증가 효과가 무한히 커지는 것은 아니다.",
+    "reason": "단백질은 근육 형성에 필요하지만 섭취량이 많을수록 효과가 계속 커진다는 표현은 부정확하다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양 정보",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "단백질",
+      "단백질 보충제",
+      "근육 증가"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "등록된 식이영양·건강기능식품 자료는 단백질의 영양 기능을 다루지만, 근육 증가량과 섭취량의 관계는 운동·연령·총섭취량을 포함한 별도 근거가 필요합니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "단백질 섭취만으로 근육 증가를 설명할 수 없으며 운동 자극·총열량·개인차가 함께 작용합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "근육 증가에는 저항운동·총열량·단백질 총량·분배·연령·건강 상태가 함께 영향을 줍니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED001",
+    "category": "medicine",
+    "topic": "항생제와 바이러스",
+    "claim": "항생제는 감기나 독감 같은 바이러스 감염에 효과가 있다.",
+    "verdict": "근거와 불일치",
+    "evidence": "항생제는 세균 감염에 사용하는 약이며 감기나 독감 같은 바이러스 감염에는 효과가 없다.",
+    "reason": "항생제의 작용 대상을 바이러스까지 확대하여 설명한 잘못된 정보다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "항생제",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6848"
+      }
+    ],
+    "keywords": [
+      "항생제",
+      "감기",
+      "독감",
+      "바이러스",
+      "세균"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 항생제 자료는 항생제가 세균 감염에 사용되며 감기·독감 같은 바이러스 감염에는 효과가 없다고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "항생제의 표적은 세균이며 바이러스 감염에 대한 효과가 없다는 주장은 공식 안내와 일치합니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "세균성 2차 감염 등 별도 상황에서는 의료진 판단으로 항생제가 필요할 수 있으나 바이러스 자체를 치료하지는 않습니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED002",
+    "category": "medicine",
+    "topic": "항생제 복용 중단",
+    "claim": "항생제는 처방받은 뒤 증상이 좋아지면 임의로 중단해도 된다.",
+    "verdict": "근거와 불일치",
+    "evidence": "항생제는 감염의 종류와 치료 경과에 따라 필요한 기간이 다르므로 의료진의 안내에 따라 복용해야 한다.",
+    "reason": "증상이 좋아졌다는 이유만으로 임의로 중단하는 것은 적절하지 않다. 필요 이상으로 오래 복용해서도 안 된다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "항생제 복용과 임의 중단 주의",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6848"
+      }
+    ],
+    "keywords": [
+      "항생제",
+      "복용",
+      "중단",
+      "처방"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 항생제 자료는 증상이 좋아져도 임의로 중단하지 말고, 치료 기간은 의료진 안내에 따르도록 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "임의 중단을 피하라는 취지는 타당하지만, 모든 항생제에 동일한 기간을 적용한다는 뜻은 아닙니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "항생제 종류와 감염 질환에 따라 기간이 다르므로 복용 기간은 처방 의료진의 지시를 따라야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED003",
+    "category": "medicine",
+    "topic": "남은 항생제",
+    "claim": "남은 항생제는 다음에 아플 때 다시 먹어도 된다.",
+    "verdict": "근거와 불일치",
+    "evidence": "남은 항생제를 보관했다가 나중에 다시 복용하거나 다른 사람과 나누어 먹어서는 안 된다.",
+    "reason": "감염의 원인과 종류에 따라 필요한 항생제가 다르므로 남은 약을 임의로 재사용하면 안 된다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "남은 항생제 재복용 금지 안내",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6848"
+      }
+    ],
+    "keywords": [
+      "항생제",
+      "남은 약",
+      "재복용",
+      "약물 오남용"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 항생제 자료는 남은 항생제를 다시 복용하거나 다른 사람과 나누어 먹지 말라고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "남은 약을 재사용하지 말라는 안내는 감염 원인·약제 선택이 다르다는 점에서 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "남은 약의 종류·용량·보관 상태가 현재 감염에 적절하다는 보장이 없으므로 재사용하면 안 됩니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED004",
+    "category": "medicine",
+    "topic": "감기의 원인",
+    "claim": "감기는 대부분 바이러스에 의해 발생한다.",
+    "verdict": "근거 충분",
+    "evidence": "일반 감기는 리노바이러스 등 다양한 바이러스에 의해 발생하는 호흡기 질환이다.",
+    "reason": "감기의 주요 원인에 대한 설명이 질병관리청 자료와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "감기",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5423"
+      }
+    ],
+    "keywords": [
+      "감기",
+      "바이러스",
+      "호흡기 질환"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 감기 자료는 감기가 다양한 바이러스에 의해 발생하는 급성 상기도 감염이라고 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "감기의 주요 원인을 설명하는 문장으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "감기 증상은 다른 호흡기 감염과 겹칠 수 있어 증상만으로 원인 바이러스를 특정할 수 없습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED005",
+    "category": "medicine",
+    "topic": "독감과 감기의 차이",
+    "claim": "독감과 일반 감기는 같은 바이러스가 일으키는 같은 질병이다.",
+    "verdict": "근거와 불일치",
+    "evidence": "독감은 인플루엔자 바이러스에 의해 발생하며 일반 감기는 리노바이러스 등 다양한 바이러스에 의해 발생한다.",
+    "reason": "독감과 감기는 원인 바이러스와 증상 양상 등이 서로 다른 질환이다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "감기",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5423"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "인플루엔자(독감)",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5232"
+      }
+    ],
+    "keywords": [
+      "독감",
+      "감기",
+      "인플루엔자",
+      "바이러스"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 감기 및 인플루엔자 자료는 감기와 독감의 원인 바이러스가 다르다는 점을 뒷받침합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "독감과 감기를 같은 질병으로 취급하는 것은 원인 바이러스가 다르다는 점에서 부정확합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "감기와 독감은 증상만으로 구분하기 어려울 수 있고 진단검사나 임상 평가가 필요할 수 있습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED006",
+    "category": "medicine",
+    "topic": "독감 증상",
+    "claim": "독감은 일반 감기보다 갑작스러운 고열과 심한 근육통이 나타나는 경우가 많다.",
+    "verdict": "근거 충분",
+    "evidence": "독감은 증상이 갑자기 시작되는 경우가 많으며 고열, 근육통, 두통, 심한 피로감 등이 나타날 수 있다.",
+    "reason": "독감의 일반적인 증상 양상에 대한 설명과 일치한다. 증상만으로 확진할 수는 없다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "인플루엔자(독감)",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5232"
+      }
+    ],
+    "keywords": [
+      "독감",
+      "고열",
+      "근육통",
+      "증상"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 인플루엔자 자료는 독감에서 고열·오한·근육통 등 전신 증상이 나타날 수 있다고 설명합니다. 증상만으로 독감을 확진할 수는 없습니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "‘경우가 많다’는 일반적 경향으로는 타당하지만 개인별 증상 차이가 있고 증상만으로 확진할 수 없습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2025-12-11입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2025-12-11"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "고령자·어린이·기저질환자 등은 증상이 다르게 나타날 수 있으며 독감 확진은 검사와 진료가 필요할 수 있습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED007",
+    "category": "medicine",
+    "topic": "고혈압 증상",
+    "claim": "고혈압은 초기에도 대부분 뚜렷한 증상이 나타난다.",
+    "verdict": "근거와 불일치",
+    "evidence": "고혈압은 초기에는 대부분 증상이 없으며 정기적인 혈압 측정이 중요하다.",
+    "reason": "초기 고혈압은 증상이 없는 경우가 대부분이라는 설명과 반대되는 주장이다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6765"
+      }
+    ],
+    "keywords": [
+      "고혈압",
+      "증상",
+      "혈압 측정"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 고혈압 자료는 고혈압 초기에는 대부분 증상이 없다고 명시합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "‘대부분’이라는 표현이 고혈압의 무증상 특성을 반영해 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-21입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-21"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "증상이 없더라도 혈압 측정이 필요하며 단일 측정값만으로 진단하지 않습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED008",
+    "category": "medicine",
+    "topic": "고혈압과 소금",
+    "claim": "소금 섭취를 줄이는 것은 고혈압 관리에 도움이 된다.",
+    "verdict": "근거 충분",
+    "evidence": "소금 섭취를 줄이는 생활습관 개선은 혈압 관리에 도움이 된다.",
+    "reason": "나트륨과 소금 섭취를 줄이는 것이 고혈압 관리에 도움이 된다는 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6765"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압 환자의 식이요법",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6855"
+      }
+    ],
+    "keywords": [
+      "고혈압",
+      "소금",
+      "나트륨",
+      "혈압"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 고혈압 자료와 고혈압 환자 식이요법 자료는 소금 섭취 제한이 혈압 관리에 도움이 된다고 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "소금 섭취 제한은 혈압 관리의 생활습관 요소로 타당합니다. 개인별 치료 목표는 의료진이 정합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-21입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-21"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "나트륨 제한은 치료의 일부이며 약물치료 여부와 목표 혈압은 개인별 위험도에 따라 달라집니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED009",
+    "category": "medicine",
+    "topic": "고혈압 생활습관 관리",
+    "claim": "고혈압은 약만 복용하면 생활습관을 바꾸지 않아도 관리할 수 있다.",
+    "verdict": "근거와 불일치",
+    "evidence": "고혈압 관리에는 약물치료뿐 아니라 소금 섭취 줄이기, 규칙적인 운동, 금연, 절주 등 생활습관 개선도 중요하다.",
+    "reason": "약물치료만으로 충분하다고 단정하고 생활습관 관리의 중요성을 무시한 주장이다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6765"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압 환자의 식이요법",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6855"
+      }
+    ],
+    "keywords": [
+      "고혈압",
+      "약물치료",
+      "생활습관",
+      "운동"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 고혈압 자료는 약물치료 외에도 소금 제한·운동·금연·절주 등 생활습관 개선이 중요하다고 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "약물치료와 생활습관 개선을 함께 다루는 설명으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-21입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-21"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "생활습관 개선과 약물치료의 조합은 개인의 혈압·동반질환·위험도에 따라 달라집니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED010",
+    "category": "medicine",
+    "topic": "당뇨병의 정의",
+    "claim": "당뇨병은 혈당이 높아지는 질환이다.",
+    "verdict": "근거 충분",
+    "evidence": "당뇨병은 혈액 속 포도당이 세포로 적절히 들어가지 못해 혈당이 높아지는 질환이다.",
+    "reason": "당뇨병의 기본적인 정의와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "당뇨병",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5305"
+      }
+    ],
+    "keywords": [
+      "당뇨병",
+      "혈당",
+      "포도당"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 당뇨병 자료는 당뇨병을 혈당이 높아지는 질환으로 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "당뇨병의 기본 정의로 타당하지만 유형별 기전은 다릅니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-23입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-23"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "당뇨병은 1형·2형·임신당뇨병 등 유형이 있으며 진단은 혈당검사 기준에 따라야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED011",
+    "category": "medicine",
+    "topic": "당뇨병 증상",
+    "claim": "당뇨병은 증상이 나타나지 않을 수도 있다.",
+    "verdict": "근거 충분",
+    "evidence": "당뇨병은 다음, 다뇨, 다식 등의 증상이 나타날 수 있지만 증상이 없는 경우도 있다.",
+    "reason": "증상이 없을 수도 있다는 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "당뇨병의 증상 및 관리",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=5305"
+      }
+    ],
+    "keywords": [
+      "당뇨병",
+      "증상",
+      "다뇨",
+      "다음"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 당뇨병 자료는 다음·다식·다뇨가 나타날 수 있으나 증상이 없을 수도 있다고 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "증상이 있을 수도 없을 수도 있다는 범위를 적절히 제시합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-23입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-23"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "증상이 없어도 당뇨병이 있을 수 있으므로 위험요인에 따른 검사와 정기 검진이 중요합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED012",
+    "category": "medicine",
+    "topic": "당뇨병 합병증",
+    "claim": "당뇨병을 제대로 관리하지 않으면 눈, 콩팥, 신경 등에 합병증이 생길 수 있다.",
+    "verdict": "근거 충분",
+    "evidence": "당뇨병의 만성 합병증에는 망막병증, 신장병증, 신경병증 등이 포함된다.",
+    "reason": "당뇨병의 대표적인 만성 합병증에 대한 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "당뇨병 합병증(만성 합병증)",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6899"
+      }
+    ],
+    "keywords": [
+      "당뇨병",
+      "합병증",
+      "망막병증",
+      "신장병증",
+      "신경병증"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 당뇨병 만성 합병증 자료는 망막·신장·신경 등 여러 합병증을 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "당뇨병의 대표적 만성 합병증을 제시한 것으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-09-28입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-09-28"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "합병증 발생 위험은 혈당·혈압·지질 관리와 유병 기간 등에 따라 달라집니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED013",
+    "category": "medicine",
+    "topic": "저혈당 응급 대처",
+    "claim": "저혈당이 발생하면 초콜릿을 먹는 것이 가장 적절한 응급 대처법이다.",
+    "verdict": "근거와 불일치",
+    "evidence": "의식이 있는 저혈당 환자는 빠르게 흡수되는 포도당을 섭취하는 것이 권고된다. 초콜릿처럼 지방이 포함된 음식은 흡수가 느릴 수 있다.",
+    "reason": "초콜릿을 가장 적절한 응급 대처 음식이라고 단정하는 것은 부정확하다. 의식이 없는 사람에게는 음식을 먹이면 안 된다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "당뇨병 합병증(급성 합병증·저혈당)",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6900"
+      }
+    ],
+    "keywords": [
+      "저혈당",
+      "초콜릿",
+      "포도당",
+      "응급 대처"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 당뇨병 자료는 의식이 있는 저혈당 환자에게 빠르게 흡수되는 포도당을 섭취하도록 하고, 의식이 없는 경우 입으로 먹이지 말라고 안내합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "의식이 있는 경우와 없는 경우를 구분해야 하며, 의식이 없는 사람에게 먹이는 행위는 위험합니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "저혈당 대처는 의식 상태에 따라 다릅니다. 의식이 없거나 삼킬 수 없는 경우 음식·음료를 입으로 주지 말고 응급 도움을 요청해야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED014",
+    "category": "medicine",
+    "topic": "해열제와 감기약 성분 중복",
+    "claim": "아세트아미노펜이 포함된 감기약과 해열제를 함께 복용해도 성분이 겹치지 않는다.",
+    "verdict": "근거와 불일치",
+    "evidence": "여러 의약품에 아세트아미노펜이 포함될 수 있으며 동일 성분이 포함된 제품을 함께 복용하면 과량 복용 위험이 있다.",
+    "reason": "감기약과 해열제에 동일한 성분이 들어 있을 수 있으므로 성분 중복을 확인해야 한다.",
+    "sources": [
+      {
+        "name": "식품의약품안전처",
+        "title": "의약품안전나라 - 의약품 정보 검색",
+        "url": "https://nedrug.mfds.go.kr/"
+      }
+    ],
+    "keywords": [
+      "아세트아미노펜",
+      "감기약",
+      "해열제",
+      "성분 중복"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식약처 의약품안전나라의 아세트아미노펜 제품 허가정보는 다른 아세트아미노펜 함유 제품과의 병용을 피하도록 안내합니다. 감기약별 성분표 확인이 필요합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "복합 감기약의 성분은 제품마다 다르므로 모든 제품에 동일 성분이 있다고 단정하지 않고 성분표를 확인해야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "제품마다 성분과 함량이 다르므로 포장·설명서의 유효성분을 확인하고 약사·의료진과 상의해야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "MED015",
+    "category": "medicine",
+    "topic": "아세트아미노펜 과량 복용",
+    "claim": "아세트아미노펜을 권장량보다 많이 복용하면 간 손상이 발생할 수 있다.",
+    "verdict": "근거 충분",
+    "evidence": "아세트아미노펜을 허가된 최대 용량보다 많이 복용하면 간 손상이 발생할 수 있다.",
+    "reason": "의약품의 사용상 주의사항과 일치한다. 실제 복용량은 제품별 허가사항을 확인해야 한다.",
+    "sources": [
+      {
+        "name": "식품의약품안전처",
+        "title": "의약품안전나라 - 의약품 정보 및 사용상 주의사항",
+        "url": "https://nedrug.mfds.go.kr/"
+      }
+    ],
+    "keywords": [
+      "아세트아미노펜",
+      "과량 복용",
+      "간 손상",
+      "해열진통제"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "식약처 의약품안전나라의 아세트아미노펜 제품 허가정보는 일일 최대 용량 초과 시 간손상 위험을 경고합니다. 최대 용량은 제품·연령·체중에 따라 확인해야 합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "간손상 위험은 맞지만 허용 용량은 제품·연령·체중·간질환·음주 등 조건에 따라 달라집니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "제품별 허가사항이 다르고 소아 용량은 체중·연령에 따라 달라집니다. 과량 복용이 의심되면 증상이 없어도 즉시 의료기관에 문의해야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF001",
+    "category": "lifestyle",
+    "topic": "청소년 신체활동",
+    "claim": "청소년은 하루 60분 이상 신체활동을 하는 것이 권장된다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 5~17세 청소년에게 하루 평균 60분 이상의 중강도에서 고강도 신체활동을 권고한다.",
+    "reason": "청소년을 대상으로 한 WHO 신체활동 권고와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "신체활동 권고",
+        "url": "https://www.who.int/initiatives/behealthy/physical-activity"
+      }
+    ],
+    "keywords": [
+      "청소년",
+      "운동",
+      "신체활동",
+      "60분"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 신체활동 자료는 아동·청소년의 연령별 신체활동 권고를 제공하며, 청소년은 평균 하루 60분의 중·고강도 활동이 기준입니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "청소년 권고는 주간 평균의 일일 중·고강도 활동량 기준이며 모든 활동이 연속 60분이어야 한다는 뜻은 아닙니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "청소년 권고는 평균적인 건강 지침이며 개인의 건강 상태·장애·활동 수준에 맞게 조정할 수 있습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF002",
+    "category": "lifestyle",
+    "topic": "성인 신체활동",
+    "claim": "성인은 일주일에 중강도 신체활동을 최소 150분 하는 것이 권장된다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 성인에게 일주일에 중강도 신체활동 150분 이상 또는 고강도 신체활동 75분 이상을 권고한다.",
+    "reason": "성인을 대상으로 한 WHO 신체활동 권고와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "신체활동 권고",
+        "url": "https://www.who.int/initiatives/behealthy/physical-activity"
+      }
+    ],
+    "keywords": [
+      "성인",
+      "운동",
+      "중강도",
+      "150분"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 신체활동 자료는 성인에게 주당 중강도 150~300분 또는 고강도 75~150분을 권고합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "성인 권고는 주당 총량이며 중강도·고강도 조합과 근력운동 등 추가 권고를 함께 봐야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "성인 권고는 건강한 성인을 위한 범위이며 임신·만성질환·장애 등에서는 개인별 조정이 필요합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF003",
+    "category": "lifestyle",
+    "topic": "운동의 건강 효과",
+    "claim": "권장 운동량을 채우지 못하면 운동을 해도 건강상 이점이 없다.",
+    "verdict": "근거와 불일치",
+    "evidence": "WHO는 신체활동을 전혀 하지 않는 것보다 조금이라도 하는 것이 건강에 이롭다고 설명한다.",
+    "reason": "권장 운동량을 모두 채우지 못해도 신체활동의 건강상 이점이 있을 수 있다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "신체활동 권고",
+        "url": "https://www.who.int/initiatives/behealthy/physical-activity"
+      }
+    ],
+    "keywords": [
+      "운동",
+      "신체활동",
+      "건강 효과",
+      "운동량"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 신체활동 자료는 일상에서 활동량을 늘리고 앉아 있는 시간을 줄이는 것이 건강에 도움이 된다고 설명합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "권장량에 못 미쳐도 활동의 건강상 이점이 있을 수 있다는 설명으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "활동량이 적더라도 가능한 범위에서 움직이는 것이 좋지만 개인의 질환·통증·안전 상태를 고려해야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF004",
+    "category": "lifestyle",
+    "topic": "장시간 앉아 있기",
+    "claim": "오랫동안 앉아 있기보다 일상에서 자주 움직이는 것이 좋다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 신체활동을 늘리고 앉아 있는 시간을 줄이는 것이 건강에 중요하다고 설명한다.",
+    "reason": "일상적인 신체활동 증가와 좌식 행동 감소의 중요성에 대한 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      }
+    ],
+    "keywords": [
+      "좌식 생활",
+      "앉아 있기",
+      "신체활동",
+      "운동"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 신체활동 자료는 앉아 있는 시간을 최소화하고 일상적인 움직임을 늘리도록 안내합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "좌식 시간 감소와 일상 활동 증가는 일반적인 건강 권고와 일치합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "좌식 시간 줄이기는 운동을 대체하지 않으며, 활동 종류와 강도는 개인 상태에 맞춰야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF005",
+    "category": "lifestyle",
+    "topic": "고혈압과 소금 섭취",
+    "claim": "고혈압 환자는 소금 섭취를 하루 5g 이하로 제한하는 것이 권고된다.",
+    "verdict": "근거 충분",
+    "evidence": "질병관리청은 고혈압 환자의 하루 소금 섭취량을 5g 이하로 제한할 것을 안내한다.",
+    "reason": "고혈압 환자의 식이요법에 관한 공식 권고와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압 환자의 식이요법",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6855"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "고혈압",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6765"
+      }
+    ],
+    "keywords": [
+      "고혈압",
+      "소금",
+      "나트륨",
+      "5g"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 고혈압 환자 식이요법 자료는 고혈압 환자에게 하루 소금 5g(나트륨 2,000mg) 이하를 권고합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "고혈압 환자에게 적용되는 권고이며 일반 인구 전체의 개인별 목표와 혼동하지 않아야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-10-21입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-10-21"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "하루 5g은 소금 기준이며 나트륨 2,000mg과 혼동하지 않아야 합니다. 신장질환 등에서는 칼륨 섭취도 주의해야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF006",
+    "category": "lifestyle",
+    "topic": "균형 잡힌 식단",
+    "claim": "건강한 식단은 한 가지 음식만 많이 먹는 것이 아니라 다양하고 균형 있게 구성해야 한다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 건강한 식단의 기본 원칙으로 적절성, 균형, 절제, 다양성을 제시한다.",
+    "reason": "다양하고 균형 잡힌 식단이 건강한 식생활의 기본이라는 설명과 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "식품안전나라",
+        "title": "건강기능식품 기능성 정보",
+        "url": "https://www.foodsafetykorea.go.kr/portal/board/boardDetail.do?bbs_no=bbs464&menu_grp=MENU_NEW01&menu_no=3811&ntctxt_no=1070220"
+      }
+    ],
+    "keywords": [
+      "균형 잡힌 식단",
+      "식습관",
+      "영양",
+      "다양성"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 식이영양 자료는 5가지 식품군을 골고루 섭취하고 균형 잡힌 식사를 하도록 안내합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "균형·다양성의 원칙을 설명하는 주장으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "균형 잡힌 식단의 구성과 양은 연령·성별·활동량·질환·문화적 식습관에 따라 달라집니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF007",
+    "category": "lifestyle",
+    "topic": "과일과 채소 섭취",
+    "claim": "10세 초과 인구는 하루 과일과 채소를 합쳐 최소 400g 섭취하는 것이 권장된다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 10세 초과 인구에게 하루 과일과 채소 400g 이상 섭취를 권고한다.",
+    "reason": "WHO의 연령별 과일 및 채소 섭취 권고와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "Healthy diet(과일·채소 섭취 권고)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "keywords": [
+      "과일",
+      "채소",
+      "400g",
+      "식이섬유"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "WHO 건강한 식단 자료는 10세 초과 인구의 과일·채소 하루 400g 이상 섭취를 권고합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "WHO 권고의 연령 범위(10세 초과)를 명시해 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "WHO 권고의 연령 범위와 전체 식사 패턴을 함께 고려해야 하며 주스·감자 등은 별도 분류가 있을 수 있습니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF008",
+    "category": "lifestyle",
+    "topic": "자유당 섭취",
+    "claim": "자유당 섭취량은 하루 총 에너지 섭취량의 10% 미만으로 제한하는 것이 권고된다.",
+    "verdict": "근거 충분",
+    "evidence": "WHO는 자유당 섭취량을 하루 총 에너지 섭취량의 10% 미만으로 제한하도록 권고한다.",
+    "reason": "WHO의 건강한 식단 권고와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "Healthy diet(자유당 섭취 권고)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "keywords": [
+      "자유당",
+      "당류",
+      "설탕",
+      "에너지 섭취"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "WHO 건강한 식단 자료는 자유당 섭취를 하루 총 에너지의 10% 미만으로 제한하도록 권고합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "자유당의 정의와 총 에너지 비율을 함께 고려해야 합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "자유당은 첨가당뿐 아니라 꿀·시럽·과일주스의 당도 포함하며 개인별 에너지 섭취량에 따라 g 환산값이 달라집니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF009",
+    "category": "lifestyle",
+    "topic": "과일주스와 통과일",
+    "claim": "과일주스는 통과일과 당류 측면에서 완전히 동일하므로 양에 제한 없이 마셔도 된다.",
+    "verdict": "근거와 불일치",
+    "evidence": "WHO는 과일주스에도 자유당이 상당량 포함될 수 있으므로 섭취량을 제한해야 한다고 설명한다.",
+    "reason": "과일주스와 통과일을 당류 측면에서 완전히 동일하게 취급하고 무제한 섭취를 권장하는 것은 부정확하다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "Healthy diet(과일주스와 당류)",
+        "url": "https://www.who.int/news-room/fact-sheets/detail/healthy-diet"
+      }
+    ],
+    "keywords": [
+      "과일주스",
+      "통과일",
+      "자유당",
+      "당류"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "WHO 건강한 식단 자료는 과일주스에 포함된 당도 자유당에 해당하므로 과일주스를 무제한 섭취해도 된다는 주장을 지지하지 않습니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "과일주스의 자유당을 고려하면 통과일과 완전히 같다고 할 수 없습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "과일주스의 양과 제품별 당 함량이 다르며 통과일은 식이섬유 등 식품 구조가 다릅니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF010",
+    "category": "lifestyle",
+    "topic": "손 씻기",
+    "claim": "비누와 물로 30초 이상 손을 씻으면 감염병 전파 위험을 줄이는 데 도움이 된다.",
+    "verdict": "근거 충분",
+    "evidence": "질병관리청은 손 씻기가 감염병 전파 위험을 줄이며 물과 비누로 꼼꼼하게 손을 씻도록 안내한다.",
+    "reason": "손 씻기의 효과와 권장 방법에 대한 공식 자료와 일치한다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "손씻기",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6545"
+      }
+    ],
+    "keywords": [
+      "손 씻기",
+      "비누",
+      "30초",
+      "감염병 예방"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청 손씻기 자료는 물과 비누로 30초 이상 손을 씻는 것이 감염병 전파 위험을 줄이는 데 도움이 된다고 안내합니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "손씻기 방법과 감염 위험 감소의 관련성을 설명하는 것으로 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-04-15입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-04-15"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "손씻기는 모든 감염을 완전히 막지 않으며 손씻기 외 예방수칙도 필요합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF011",
+    "category": "lifestyle",
+    "topic": "아침 식사와 비만",
+    "claim": "아침 식사를 거르면 누구나 반드시 비만이 된다.",
+    "verdict": "판단 보류",
+    "evidence": "청소년건강행태조사는 아침 식사 결식률을 조사하지만 결식이 모든 사람에게 반드시 비만을 일으킨다는 인과관계를 입증하지는 않는다.",
+    "reason": "집단의 결식률 통계만으로 모든 개인에게 동일한 결과가 발생한다고 단정할 수 없다.",
+    "sources": [
+      {
+        "name": "질병관리청",
+        "title": "청소년건강행태조사",
+        "url": "https://www.kdca.go.kr/yhs/yhshmpg/main.do"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      }
+    ],
+    "keywords": [
+      "아침 식사",
+      "결식",
+      "비만",
+      "청소년"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "청소년건강행태조사는 아침 식사 결식률 등을 조사하는 자료이며, 그 자체로 결식이 모든 사람에게 비만을 일으킨다는 인과관계를 입증하지는 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "관찰된 결식률과 비만의 인과관계를 구분한 점이 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-05-12입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-05-12"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "조사 결과는 집단 수준의 관련성·추세를 보여줄 수 있으나 개인별 인과관계를 단정하지 못합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF012",
+    "category": "lifestyle",
+    "topic": "하루 물 섭취량",
+    "claim": "모든 사람은 건강을 위해 매일 반드시 물 2L를 마셔야 한다.",
+    "verdict": "판단 보류",
+    "evidence": "모든 사람에게 동일하게 하루 물 2L를 의무적으로 마셔야 한다는 근거는 확인하지 못했다. 수분 필요량은 연령, 활동량, 환경, 음식 섭취량 및 건강 상태에 따라 달라질 수 있다.",
+    "reason": "개인차를 고려하지 않고 단일 수치를 모든 사람에게 적용하기 어렵다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "탈수 및 수분 섭취",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6551"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "식이영양",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6693"
+      }
+    ],
+    "keywords": [
+      "물",
+      "수분 섭취",
+      "2L",
+      "하루 섭취량"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 탈수 자료는 수분 부족 위험이 연령·더위·질환·약물 등 여러 요인에 따라 달라짐을 설명합니다. 모든 사람에게 2L가 의무라는 근거는 확인되지 않습니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "모든 사람에게 단일 수분 목표를 적용할 수 없다는 점에서 타당합니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-09-16입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-09-16"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "수분 필요량은 기온·운동·발열·임신·질환·식품 속 수분 등에 따라 달라집니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF013",
+    "category": "lifestyle",
+    "topic": "수면 시간",
+    "claim": "모든 사람에게 필요한 수면 시간은 정확히 8시간으로 동일하다.",
+    "verdict": "판단 보류",
+    "evidence": "수면 필요량은 연령과 개인에 따라 다를 수 있으므로 모든 사람에게 정확히 8시간이 동일하게 필요하다고 단정할 수 없다.",
+    "reason": "연령과 개인차를 고려하지 않은 절대적인 표현이다.",
+    "sources": [
+      {
+        "name": "질병관리청",
+        "title": "청소년건강행태조사",
+        "url": "https://www.kdca.go.kr/yhs/yhshmpg/main.do"
+      },
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "건강정보 포털(수면·생활습관 자료 검색)",
+        "url": "https://health.kdca.go.kr/healthinfo/index.do"
+      }
+    ],
+    "keywords": [
+      "수면",
+      "수면시간",
+      "8시간",
+      "청소년"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "등록된 청소년건강행태조사와 건강정보 검색 페이지는 모든 사람에게 정확히 8시간이 동일하게 필요하다는 주장을 직접 검증하는 수면 권고 근거가 아닙니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "연령·개인별 수면 필요량을 무시한 절대적 표현은 타당하지 않습니다."
+      },
+      "timeliness": {
+        "status": "확인 불가",
+        "detail": "확인한 출처 페이지에서 게시일 또는 최종 수정일을 확인할 수 없거나, 개별 제품·자료별 갱신일을 특정하지 못했습니다. 따라서 최신성을 확인 완료로 표시하지 않았습니다.",
+        "updatedDate": null
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "수면 시간은 연령대별 권고가 다르며 수면의 질·규칙성·개인 건강상태도 중요합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF014",
+    "category": "lifestyle",
+    "topic": "연속 운동 시간",
+    "claim": "운동은 한 번에 30분 이상 연속으로 해야만 건강 효과가 있다.",
+    "verdict": "근거와 불일치",
+    "evidence": "WHO의 신체활동 권고는 주간 신체활동 총량을 중심으로 제시하며 신체활동은 하지 않는 것보다 조금이라도 하는 것이 좋다고 설명한다.",
+    "reason": "운동 효과가 반드시 한 번에 30분 이상 연속으로 운동해야만 나타난다고 단정할 수 없다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      },
+      {
+        "name": "세계보건기구(WHO)",
+        "title": "신체활동 권고",
+        "url": "https://www.who.int/initiatives/behealthy/physical-activity"
+      }
+    ],
+    "keywords": [
+      "운동 시간",
+      "30분",
+      "연속 운동",
+      "신체활동"
+    ],
+    "reviewStatus": "reviewed",
+    "review": {
+      "accuracy": {
+        "status": "확인 완료",
+        "detail": "질병관리청·WHO 신체활동 권고는 주간 총 활동량을 기준으로 하며, 건강 효과가 한 번에 30분 이상 연속 운동할 때만 생긴다는 주장을 뒷받침하지 않습니다."
+      },
+      "validity": {
+        "status": "확인 완료",
+        "detail": "운동 효과를 30분 연속 수행으로만 제한하는 것은 최신 권고의 총량 중심 접근과 맞지 않습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "확인 완료",
+        "detail": "운동은 짧은 시간으로 나누어 누적할 수 있지만 활동 강도와 주간 총량은 고려해야 합니다."
+      },
+      "overallStatus": "검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  },
+  {
+    "id": "LIF015",
+    "category": "lifestyle",
+    "topic": "운동과 휴식",
+    "claim": "운동을 많이 할수록 건강에 무조건 더 좋으므로 휴식 없이 운동해도 된다.",
+    "verdict": "근거와 불일치",
+    "evidence": "신체활동 권고량은 연령과 활동 강도에 따라 구분되며 개인의 건강 상태를 고려해야 한다. 운동량을 무조건 늘리는 것이 항상 바람직한 것은 아니다.",
+    "reason": "운동량이 많을수록 무조건 좋다는 절대적인 주장은 개인의 건강 상태와 회복 필요성을 고려하지 않는다.",
+    "sources": [
+      {
+        "name": "국가건강정보포털(질병관리청)",
+        "title": "신체활동! 알려드리겠습니다!",
+        "url": "https://health.kdca.go.kr/healthinfo/biz/health/gnrlzHealthInfo/gnrlzHealthInfo/gnrlzHealthInfoView.do?cntnts_sn=6251"
+      }
+    ],
+    "keywords": [
+      "운동",
+      "휴식",
+      "과도한 운동",
+      "운동량"
+    ],
+    "reviewStatus": "reviewed_with_limits",
+    "review": {
+      "accuracy": {
+        "status": "추가 확인 필요",
+        "detail": "질병관리청 신체활동 자료는 개인 수준에 맞춘 활동을 권고하지만, 휴식 없이 운동해도 된다는 주장은 뒷받침하지 않습니다. 과훈련·회복 관련 별도 근거가 필요합니다."
+      },
+      "validity": {
+        "status": "추가 확인 필요",
+        "detail": "운동량과 건강 이득의 관계를 무조건적인 선형 관계로 보는 것은 타당하지 않습니다."
+      },
+      "timeliness": {
+        "status": "확인 완료",
+        "detail": "확인한 공식 출처에서 확인 가능한 최근 등록·수정일은 2026-07-27입니다. 검토일(2026-11-19) 기준으로 날짜를 확인했으며, 이 날짜가 모든 관련 연구의 최신성을 보장하는 것은 아닙니다.",
+        "updatedDate": "2026-07-27"
+      },
+      "limitations": {
+        "status": "추가 확인 필요",
+        "detail": "과도한 운동은 부상·피로·회복 부족을 유발할 수 있습니다. 운동 강도·빈도·휴식은 개인의 회복 상태에 맞춰야 합니다."
+      },
+      "overallStatus": "부분 검토 완료",
+      "checkedAt": "2026-11-19",
+      "method": "등록된 주장·설명과 연결된 정부기관·공공기관·국제기구의 공개 자료를 대조했습니다. 이 평가는 교육용 자료 검토이며 체계적 문헌고찰이나 의료진의 개별 진단이 아닙니다."
+    }
+  }
+]
