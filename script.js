@@ -1,9 +1,11 @@
+
 document.addEventListener("DOMContentLoaded", function () {
   const category = document.getElementById("category");
   const categoryDescription = document.getElementById("categoryDescription");
   const healthInput = document.getElementById("healthInput");
   const charCount = document.getElementById("charCount");
   const verifyButton = document.getElementById("verifyButton");
+
   const resultSection = document.getElementById("resultSection");
   const resultStatus = document.getElementById("resultStatus");
   const matchedClaim = document.getElementById("matchedClaim");
@@ -19,6 +21,10 @@ document.addEventListener("DOMContentLoaded", function () {
     lifestyle: "식습관, 운동, 수면 등 생활 건강정보를 입력해 주세요."
   };
 
+  // ==========================================
+  // 1. 분야 설명 및 글자 수
+  // ==========================================
+
   category.addEventListener("change", function () {
     categoryDescription.textContent =
       descriptions[category.value] ||
@@ -30,11 +36,32 @@ document.addEventListener("DOMContentLoaded", function () {
       Array.from(healthInput.value).length + " / 2000자";
   });
 
+  // ==========================================
+  // 2. AI 분석 문장 정리
+  // ==========================================
+
+  function cleanAnalysisText(value) {
+    if (typeof value !== "string") {
+      return "분석 결과가 없습니다.";
+    }
+
+    return value
+      .replace(/\*\*(.*?)\*\*/g, "$1")
+      .replace(/__(.*?)__/g, "$1")
+      .replace(/^#{1,6}\s*/gm, "")
+      .trim();
+  }
+
+  // ==========================================
+  // 3. 출처 표시
+  // ==========================================
+
   function displaySources(sources) {
     resultSources.replaceChildren();
 
     if (!Array.isArray(sources) || sources.length === 0) {
-      resultSources.textContent = "등록된 참고 출처가 없습니다.";
+      resultSources.textContent =
+        "확인된 출처 링크가 없습니다. 추가 확인이 필요합니다.";
       return;
     }
 
@@ -43,24 +70,33 @@ document.addEventListener("DOMContentLoaded", function () {
       row.className = "source-entry";
 
       if (source && typeof source === "object") {
-        const label = [source.name, source.title]
-          .filter(Boolean)
-          .join(" - ");
-
         const title = document.createElement("div");
-        title.textContent = label || "참고 자료";
+
+        title.textContent =
+          source.name || source.title || "참고 자료";
+
         row.appendChild(title);
 
-        if (
-          typeof source.url === "string" &&
-          /^https?:\/\//i.test(source.url)
-        ) {
-          const link = document.createElement("a");
-          link.href = source.url;
-          link.target = "_blank";
-          link.rel = "noopener noreferrer";
-          link.textContent = "공식 자료 열기";
-          row.appendChild(link);
+        if (typeof source.url === "string") {
+          try {
+            const url = new URL(source.url);
+
+            if (
+              url.protocol === "https:" ||
+              url.protocol === "http:"
+            ) {
+              const link = document.createElement("a");
+
+              link.href = url.href;
+              link.target = "_blank";
+              link.rel = "noopener noreferrer";
+              link.textContent = "자료 원문 열기";
+
+              row.appendChild(link);
+            }
+          } catch (error) {
+            console.warn("잘못된 출처 URL:", source.url);
+          }
         }
       } else {
         row.textContent = String(source);
@@ -69,6 +105,10 @@ document.addEventListener("DOMContentLoaded", function () {
       resultSources.appendChild(row);
     });
   }
+
+  // ==========================================
+  // 4. 검토 기준별 확인 상태 표시
+  // ==========================================
 
   function displayReview(review) {
     reviewPanel.replaceChildren();
@@ -80,9 +120,17 @@ document.addEventListener("DOMContentLoaded", function () {
       ["limitations", "한계 검토"]
     ];
 
+    const allowedStatuses = [
+      "확인 완료",
+      "부분 확인",
+      "확인 불가",
+      "추가 확인 필요"
+    ];
+
     if (!review || typeof review !== "object") {
       reviewOverall.textContent = "추가 확인 필요";
-      reviewPanel.textContent = "검토 정보가 등록되지 않았습니다.";
+      reviewPanel.textContent =
+        "검토 기준별 결과를 확인할 수 없습니다.";
       return;
     }
 
@@ -91,7 +139,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
     criteria.forEach(function ([key, label]) {
       const info = review[key] || {};
-      const status = info.status || "추가 확인 필요";
+
+      const status = allowedStatuses.includes(info.status)
+        ? info.status
+        : "추가 확인 필요";
 
       const card = document.createElement("div");
       card.className = "review-item";
@@ -120,7 +171,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
       const detail = document.createElement("p");
       detail.textContent =
-        info.detail || "검토 내용이 등록되지 않았습니다.";
+        info.detail || "검토 근거가 등록되지 않았습니다.";
 
       card.append(head, detail);
 
@@ -137,6 +188,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
     const method = document.createElement("p");
     method.className = "review-method";
+
     method.textContent =
       "검토일: " + (review.checkedAt || "미기록") +
       " · " +
@@ -144,6 +196,54 @@ document.addEventListener("DOMContentLoaded", function () {
 
     reviewPanel.appendChild(method);
   }
+
+  // ==========================================
+  // 5. 판정 추출
+  // ==========================================
+
+  function extractVerdict(analysis) {
+    const match = analysis.match(
+      /판정\s*:\s*(근거 충분|일부 일치|근거와 불일치|판단 보류)/
+    );
+
+    return match ? match[1] : "판단 보류";
+  }
+
+  // ==========================================
+  // 6. 결과 화면 표시
+  // ==========================================
+
+  function displayResult(
+    status,
+    claim,
+    evidence,
+    reason,
+    sources,
+    review
+  ) {
+    resultSection.hidden = false;
+
+    resultStatus.textContent = status || "판단 보류";
+    matchedClaim.textContent = claim || "";
+
+    resultEvidence.textContent =
+      cleanAnalysisText(evidence || "검증 근거가 없습니다.");
+
+    resultReason.textContent = reason || "";
+    resultReason.hidden = !reason;
+
+    displaySources(sources);
+    displayReview(review);
+
+    resultSection.scrollIntoView({
+      behavior: "smooth",
+      block: "start"
+    });
+  }
+
+  // ==========================================
+  // 7. 건강정보 검증 실행
+  // ==========================================
 
   verifyButton.addEventListener("click", async function () {
     const selectedCategory = category.value;
@@ -161,11 +261,20 @@ document.addEventListener("DOMContentLoaded", function () {
       return;
     }
 
+    if (inputText.length > 2000) {
+      alert("건강정보는 2000자 이하로 입력해 주세요.");
+      healthInput.focus();
+      return;
+    }
+
     verifyButton.disabled = true;
-    verifyButton.textContent = "자료를 비교하는 중...";
+    resultSection.hidden = true;
 
     try {
-      const response = await fetch("/api/verify", {
+      // 1단계: 기존 45개 자료 비교
+      verifyButton.textContent = "등록 자료와 비교하는 중...";
+
+      const verifyResponse = await fetch("/api/verify", {
         method: "POST",
         headers: {
           "Content-Type": "application/json"
@@ -176,42 +285,75 @@ document.addEventListener("DOMContentLoaded", function () {
         })
       });
 
-      const data = await response.json();
+      const verifyData = await verifyResponse.json();
 
-      if (!response.ok || !data.success) {
+      if (!verifyResponse.ok || !verifyData.success) {
         throw new Error(
-          data.message || "요청에 실패했습니다."
+          verifyData.message || "기존 자료 비교에 실패했습니다."
         );
       }
 
-      resultSection.hidden = false;
+      // 등록된 자료와 일치하면 기존 결과 표시
+      if (verifyData.matched === true) {
+        displayResult(
+          verifyData.status || "판단 보류",
+          verifyData.matchedClaim
+            ? "비교한 등록 주장: " + verifyData.matchedClaim
+            : "등록된 관련 자료를 찾았습니다.",
+          verifyData.evidence || "검증 근거가 없습니다.",
+          verifyData.reason || "",
+          verifyData.sources || [],
+          verifyData.review || null
+        );
 
-      resultStatus.textContent =
-        data.status || "판정 정보가 없습니다.";
+        return;
+      }
 
-      matchedClaim.textContent = data.matchedClaim
-        ? "비교한 등록 주장: " + data.matchedClaim
-        : "일치하는 등록 자료를 찾지 못했습니다.";
+      // 2단계: 일치하는 자료가 없으면 AI 분석
+      verifyButton.textContent =
+        "AI가 공식 자료를 검색하고 분석하는 중...";
 
-      resultEvidence.textContent =
-        data.evidence || "검증 근거가 없습니다.";
-
-      resultReason.textContent = data.reason
-        ? "판단 이유: " + data.reason
-        : "";
-
-      resultReason.hidden = !data.reason;
-
-      displaySources(data.sources);
-      displayReview(data.review);
-
-      resultSection.scrollIntoView({
-        behavior: "smooth",
-        block: "start"
+      const aiResponse = await fetch("/api/ai-check", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json"
+        },
+        body: JSON.stringify({
+          category: selectedCategory,
+          text: inputText
+        })
       });
 
+      const aiData = await aiResponse.json();
+
+      if (!aiResponse.ok || !aiData.success) {
+        throw new Error(
+          aiData.message || "AI 분석 요청에 실패했습니다."
+        );
+      }
+
+      const analysis =
+        aiData.analysis || "AI 분석 결과가 없습니다.";
+
+      const verdict =
+        aiData.verdict || extractVerdict(analysis);
+
+      displayResult(
+        verdict,
+        "기존 45개 등록 자료와 일치하지 않아 AI 웹 검색 분석을 진행했습니다.",
+        analysis,
+        aiData.message ||
+          "AI 분석 결과는 참고용이며 출처를 직접 확인해야 합니다.",
+        aiData.sources || [],
+        aiData.review || null
+      );
+
     } catch (error) {
-      alert("서버 연결 오류: " + error.message);
+      console.error("건강정보 검증 오류:", error);
+
+      alert(
+        "검증 중 오류가 발생했습니다: " + error.message
+      );
 
     } finally {
       verifyButton.disabled = false;
